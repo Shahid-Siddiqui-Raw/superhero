@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Base View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController storyboardIdentifier="BaseViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="BYZ-38-t0r" customClass="BaseViewController" customModule="superHero" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="BeG-QZ-9Mk">
+                                <rect key="frame" x="0.0" y="69" width="393" height="100"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Superheroes Assemble!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gRb-JF-uCe">
+                                        <rect key="frame" x="106" y="39.666666666666671" width="181" height="21"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="gRb-JF-uCe" firstAttribute="centerX" secondItem="BeG-QZ-9Mk" secondAttribute="centerX" id="cRx-lu-et4"/>
+                                    <constraint firstItem="gRb-JF-uCe" firstAttribute="centerY" secondItem="BeG-QZ-9Mk" secondAttribute="centerY" id="qAG-VW-z4J"/>
+                                    <constraint firstAttribute="height" constant="100" id="s1E-NA-xhr"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="nto-yv-YSr">
+                                <rect key="frame" x="0.0" y="169" width="393" height="649"/>
+                                <subviews>
+                                    <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="af3-gC-DVM">
+                                        <rect key="frame" x="20" y="20" width="353" height="41"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="40" id="21O-tv-HUk"/>
+                                        </constraints>
+                                        <segments>
+                                            <segment title="DC"/>
+                                            <segment title="Marvel"/>
+                                        </segments>
+                                    </segmentedControl>
+                                    <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="UpO-ur-F7P">
+                                        <rect key="frame" x="20" y="60" width="353" height="589"/>
+                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                    </tableView>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstItem="UpO-ur-F7P" firstAttribute="top" secondItem="af3-gC-DVM" secondAttribute="bottom" id="3FQ-b3-zsU"/>
+                                    <constraint firstAttribute="trailing" secondItem="UpO-ur-F7P" secondAttribute="trailing" constant="20" id="A8r-WZ-xoU"/>
+                                    <constraint firstItem="af3-gC-DVM" firstAttribute="top" secondItem="nto-yv-YSr" secondAttribute="top" constant="20" id="CMt-j2-SA3"/>
+                                    <constraint firstAttribute="trailing" secondItem="af3-gC-DVM" secondAttribute="trailing" constant="20" id="WYy-YB-KXU"/>
+                                    <constraint firstItem="af3-gC-DVM" firstAttribute="leading" secondItem="nto-yv-YSr" secondAttribute="leading" constant="20" id="bHb-cl-STm"/>
+                                    <constraint firstItem="UpO-ur-F7P" firstAttribute="leading" secondItem="nto-yv-YSr" secondAttribute="leading" constant="20" id="cYA-ft-1Ye"/>
+                                    <constraint firstAttribute="bottom" secondItem="UpO-ur-F7P" secondAttribute="bottom" id="wNo-I5-I8w"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="nto-yv-YSr" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="PTR-4M-qXz"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="nto-yv-YSr" secondAttribute="trailing" id="SEE-1P-4oU"/>
+                            <constraint firstItem="BeG-QZ-9Mk" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="10" id="bAR-9B-o6F"/>
+                            <constraint firstItem="BeG-QZ-9Mk" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="dzw-Ei-tgG"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="BeG-QZ-9Mk" secondAttribute="trailing" id="mQf-8R-tkA"/>
+                            <constraint firstItem="nto-yv-YSr" firstAttribute="top" secondItem="BeG-QZ-9Mk" secondAttribute="bottom" id="mbm-SK-xUQ"/>
+                            <constraint firstAttribute="bottomMargin" secondItem="nto-yv-YSr" secondAttribute="bottom" id="tZP-G6-sd5"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="segUniverse" destination="af3-gC-DVM" id="igr-ZI-bnF"/>
+                        <outlet property="tblSuperheroList" destination="UpO-ur-F7P" id="HZv-0r-w9N"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="130.53435114503816" y="-34.507042253521128"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/superHero-master.dia",
+    "emit-module-dependencies" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/superHero-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/superHero-master-emit-module.dia",
+    "swift-dependencies" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/superHero-master.swiftdeps"
+  },
+  "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/muhammed.siddiqui/Documents/Temp/superHero/superHero/AppDelegate.swift" : {
+    "const-values" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/muhammed.siddiqui/Documents/Temp/superHero/superHero/BaseViewController.swift" : {
+    "const-values" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/BaseViewController.swiftconstvalues",
+    "dependencies" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/BaseViewController.d",
+    "diagnostics" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/BaseViewController.dia",
+    "index-unit-output-path" : "/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/BaseViewController.o",
+    "llvm-bc" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/BaseViewController.bc",
+    "object" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/BaseViewController.o",
+    "swift-dependencies" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/BaseViewController.swiftdeps",
+    "swiftmodule" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/BaseViewController~partial.swiftmodule"
+  },
+  "/Users/muhammed.siddiqui/Documents/Temp/superHero/superHero/Network/Model/SuperHeroModel.swift" : {
+    "const-values" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SuperHeroModel.swiftconstvalues",
+    "dependencies" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SuperHeroModel.d",
+    "diagnostics" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SuperHeroModel.dia",
+    "index-unit-output-path" : "/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SuperHeroModel.o",
+    "llvm-bc" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SuperHeroModel.bc",
+    "object" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SuperHeroModel.o",
+    "swift-dependencies" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SuperHeroModel.swiftdeps",
+    "swiftmodule" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SuperHeroModel~partial.swiftmodule"
+  },
+  "/Users/muhammed.siddiqui/Documents/Temp/superHero/superHero/Network/NetworkManager.swift" : {
+    "const-values" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/NetworkManager.swiftconstvalues",
+    "dependencies" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/NetworkManager.d",
+    "diagnostics" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/NetworkManager.dia",
+    "index-unit-output-path" : "/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/NetworkManager.o",
+    "llvm-bc" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/NetworkManager.bc",
+    "object" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/NetworkManager.o",
+    "swift-dependencies" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/NetworkManager.swiftdeps",
+    "swiftmodule" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/NetworkManager~partial.swiftmodule"
+  },
+  "/Users/muhammed.siddiqui/Documents/Temp/superHero/superHero/SceneDelegate.swift" : {
+    "const-values" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/muhammed.siddiqui/Documents/Temp/superHero/superHero/Screens/SuperHeroCells.swift" : {
+    "const-values" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SuperHeroCells.swiftconstvalues",
+    "dependencies" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SuperHeroCells.d",
+    "diagnostics" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SuperHeroCells.dia",
+    "index-unit-output-path" : "/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SuperHeroCells.o",
+    "llvm-bc" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SuperHeroCells.bc",
+    "object" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SuperHeroCells.o",
+    "swift-dependencies" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SuperHeroCells.swiftdeps",
+    "swiftmodule" : "/Users/muhammed.siddiqui/Documents/Temp/superHero/Build/Intermediates.noindex/superHero.build/Debug-iphonesimulator/superHero.build/Objects-normal/arm64/SuperHeroCells~partial.swiftmodule"
+  }
+}
